@@ -8,6 +8,6 @@ on:
 
 jobs:
   release-check:
-    uses: laurentsenta/dotgithub/.github/workflows/release-check.yml@master
+    uses: laurentsenta/pl-dotgithub/.github/workflows/release-check.yml@master
     # with:
     #   go-version: 1.19.x
